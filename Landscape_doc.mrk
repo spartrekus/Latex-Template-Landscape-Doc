@@ -1,0 +1,24 @@
+
+\documentclass[11pt,landscape]{article}
+\usepackage[utf8]{inputenc}
+\usepackage{textcomp}
+// \usepackage[margin=1.0cm]{geometry}
+\pagestyle{headings}
+!utf
+!packages
+!gpath{figs/}
+!begin 
+
+!clr
+!toc
+
+!= Section 1
+!fig 20150604_181910.jpg
+!fig 20150604_182025.jpg
+!fig 20150604_185549.jpg
+!fig 20150604_193335.jpg
+
+!= Section 2
+!fig 20150606_175230.jpg
+!fig 20150606_175628.jpg
+
